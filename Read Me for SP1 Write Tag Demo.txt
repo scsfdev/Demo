@@ -1,0 +1,11 @@
+Before using the demo application make sure the host device and the SP1 have been paired using the "SP1 Target Setting" application provided by DENSO WAVE.
+
+After the application has been started, it waits for the SP1 to connect.
+
+If it does not connect make sure the SP1 is in pairing mode and that it is in Bluetooth master mode.
+
+To test this application follow the below steps:
+
+Press the "READ TAG" button and then press the trigger of the SP1 to read the tag right in front of the antenna.
+Modify the data in the new tag data field.
+Press the "WRITE TAG" button and then the trigger key to write the new data to the tag.
